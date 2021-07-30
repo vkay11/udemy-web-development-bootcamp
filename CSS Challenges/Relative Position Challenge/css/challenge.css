@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+.box1 {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+}
+
+.box2 {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+}
+
+.box3 {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    right: 100px;
+}
