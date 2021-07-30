@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+.box1 {
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    border: solid 10px;
+    padding: 20px;
+    margin: 0;
+}
+
+.box2 {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: solid 20px;
+    margin: 0;
+    margin-left: 260px;
+}
+
+.box3 {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border: solid 10px;
+    margin: 0;
+    margin-left: 500px;
+}
