@@ -1,0 +1,27 @@
+body {
+    background-color: #E4F9F5;
+    text-align: center;
+}
+
+.top-container {
+    margin: 50px 0 0 0;
+}
+
+.middle-container {
+    position: relative;
+    top: 55px;
+}
+
+.bottom-container {
+    position: relative;
+    top: 50px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 500px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
